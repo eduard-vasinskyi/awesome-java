@@ -993,6 +993,7 @@ _Libraries that handle security, authentication, authorization or session manage
 
 _Libraries that handle serialization with high efficiency._
 
+- [ActiveJ Serializer](https://activej.io/serializer) -  Fast and space-efficient serializers created with bytecode engineering.
 - [FlatBuffers](https://github.com/google/flatbuffers) - Memory-efficient serialization library that can access serialized data without unpacking and parsing it.
 - [FST](https://github.com/RuedigerMoeller/fast-serialization) - JDK-compatible, high-performance object graph serialization.
 - [Kryo](https://github.com/EsotericSoftware/kryo) - Fast and efficient object graph serialization framework.
