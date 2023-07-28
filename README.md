@@ -109,6 +109,7 @@ _Tools that handle the build cycle and dependencies of an application._
 
 _Libraries to manipulate bytecode programmatically._
 
+- [ActiveJ Codegen](https://activej.io/codegen) - Code generator with a streamlined and simple API.
 - [ASM](https://asm.ow2.io) - All-purpose, low-level bytecode manipulation and analysis.
 - [Byte Buddy](https://bytebuddy.net) - Further simplifies bytecode generation with a fluent API.
 - [bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - Java 8 Jar & Android APK reverse engineering suite. (GPL-3.0-only)
@@ -980,7 +981,7 @@ _Libraries that handle security, authentication, authorization or session manage
 - [SSLContext-Kickstart](https://github.com/Hakky54/sslcontext-kickstart) - High-level SSL context builder for configuring HTTP clients with SSL/TLS.
 - [Themis](https://github.com/cossacklabs/themis) - Multi-platform high-level cryptographic library provides easy-to-use encryption for protecting sensitive data: secure messaging with forward secrecy, secure data storage (AES256GCM); suits for building end-to-end encrypted applications.
 - [Tink](https://github.com/google/tink) - Provides a simple and misuse-proof API for common cryptographic tasks.
-- [Topaz](https://www.topaz.sh) - Fine-grained authorization for applications with support for RBAC, ABAC, and ReBAC. 
+- [Topaz](https://www.topaz.sh) - Fine-grained authorization for applications with support for RBAC, ABAC, and ReBAC.
 
 ### Serialization
 
