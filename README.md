@@ -475,6 +475,7 @@ _Libraries to create modern graphical user interfaces._
 
 _Everything about high-performance computation, from collections to specific libraries._
 
+- [ActiveJ Specializer](https://activej.io/specializer) - Technology to improve class performance by automatically rewriting classes.
 - [Agrona](https://github.com/real-logic/Agrona) - Data structures and utility methods that are common in high-performance applications.
 - [Disruptor](https://lmax-exchange.github.io/disruptor/) - Inter-thread messaging library.
 - [Eclipse Collections](https://github.com/eclipse/eclipse-collections) - Collections framework inspired by Smalltalk.
