@@ -322,6 +322,7 @@ _Libraries related to handling date and time._
 
 _Libraries that help to realize the [Inversion of Control](https://en.wikipedia.org/wiki/Inversion_of_control) paradigm._
 
+- [ActiveJ Inject](https://activej.io/inject) - Lightweight dependency injection library optimized for performance.
 - [Apache DeltaSpike](https://deltaspike.apache.org) - CDI extension framework.
 - [Dagger](https://dagger.dev/) - Compile-time injection framework without reflection.
 - [Feather](https://github.com/zsoltherpai/feather) - Ultra-lightweight, JSR-330-compliant dependency injection library.
